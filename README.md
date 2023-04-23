@@ -1,10 +1,11 @@
-### Hi there 👋
+## Hi there. My name is Andrei 👋
 
-# About Me
+### About Me
 
-- I'm focused on my skills in this area, which include Javascript, Node.js, React, and CSS.
-- I'm looking for roles as a frontend developer that will provide enriching experiences to further expand upon these abilities.
+I'm a software engineer with experience programming for embedded systems. Recently, I decided to transition into the world of frontend development.
+My current focus is on mastering the skills needed to excel in frontend development. I'm passionate about developing clean, efficient, and visually appealing web applications.
 
+---
 ### Stack
 
 <p align="left">
@@ -12,12 +13,12 @@
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a></p>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus.svg" width="36" height="36" alt="C++" /></a>
+</p>
 
-
-
+---
 ### Socials
-
 
 <p align="left">    
 <a href="https://t.me/Andrei_D4"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>

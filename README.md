@@ -2,7 +2,6 @@
 
 ### About Me
 
-I'm a software engineer with experience programming for embedded systems. Recently, I decided to transition into the world of frontend development.
 My current focus is on mastering the skills needed to excel in frontend development. I'm passionate about developing clean, efficient, and visually appealing web applications.
 
 ---

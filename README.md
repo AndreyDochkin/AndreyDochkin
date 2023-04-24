@@ -2,7 +2,7 @@
 
 ### About Me
 
-My current focus is on mastering the skills needed to excel in frontend development. I'm passionate about developing clean, efficient, and visually appealing web applications.
+My current focus is on mastering skills needed to excel in frontend development. I'm passionate about developing clean, efficient, and visually appealing web applications.
 
 ---
 ### Stack

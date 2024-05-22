@@ -1,9 +1,3 @@
-## Hi there. My name is Andrei 👋
-
-### About Me
-
-My current focus is on mastering skills needed to excel in frontend development. I'm passionate about developing clean, efficient, and visually appealing web applications.
-
 ---
 ### Stack
 
